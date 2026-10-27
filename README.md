@@ -57,8 +57,11 @@ It also helped me practise translating business questions into measures and visu
 - Explore additional DAX calculations.
 - Optimize the data model and report performance.
 
-## 👤 Author
+## 👤 About Me
 
-Data Analytics Portfolio Project
+**Deependra Gupta**  
+Aspiring Data Analyst | Excel| Power Query| Power BI | SQL  |
 
-**Tools:** Excel | Power Query | Power BI | DAX
+I am developing my data analytics skills through hands-on projects, focusing on data transformation, data modeling, DAX, and business intelligence.
+
+**Tools & Technologies:** Microsoft Excel | Power Query | Power BI | DAX | SQL
