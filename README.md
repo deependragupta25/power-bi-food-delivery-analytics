@@ -33,7 +33,7 @@ The project was completed as part of my hands-on learning and practice in data a
 
 ## 🖼️ Dashboard Preview
 
-![Food Delivery Analytics Dashboard](Omato_Food_Delivery_Dashboard.png)
+![Omato Food Delivery Dashboard](Omato%20Food%20Delivery%20project%201.png)
 
 ## 🔍 Skills Demonstrated
 
